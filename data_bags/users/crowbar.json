@@ -1,0 +1,7 @@
+{
+  "id": "crowbar",
+  "password": "crowbar",
+  "groups": [ "sysadmin" ],
+  "uid": 2001,
+  "shell": "\/bin\/bash"
+}
